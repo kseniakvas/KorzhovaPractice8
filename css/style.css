@@ -1,0 +1,111 @@
+.verh{
+    background-color: rgb(127, 158, 158);
+    text-align: center;
+    padding: 30px;
+}
+
+.knopk {
+   display: flex;
+   justify-content: space-between;
+   padding-left: 50px;
+   padding-right: 50px;
+   padding-top: 50px;
+}
+
+.knopk button {
+    width: 250px;
+    height: 80px;
+    background-color: rgb(252, 201, 139);
+    
+
+}
+
+.knopk button:hover{
+    background-color: rgb(206, 164, 120);
+}
+
+body {
+    background-color: rgb(215, 194, 165);
+}
+
+*{
+    margin: 0;
+}
+
+table {
+    border-collapse: collapse;
+    width: 95%;
+    margin: auto;
+  }
+  
+th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    background-color: antiquewhite;
+  }
+  
+th {
+    background-color: #f2f2f2;
+  }
+  
+  .ver {
+    text-align: center;
+    padding: 30px;
+    padding-top: 0px;
+    font-size: 50px;
+  }
+  
+  .knopa {
+    width: 150px;
+    height: 50px;
+    background-color: rgb(215, 180, 137);
+    margin: 30px;
+    
+
+}
+
+.knopa:hover{
+    background-color: rgb(175, 212, 209);
+}
+
+.knopak {
+    width: 150px;
+    height: 50px;
+    background-color: rgb(215, 180, 137);
+    margin: 30px;
+    
+
+}
+
+.knopak:hover{
+    background-color: rgb(175, 212, 209);
+}
+
+.knopaka {
+    width: 150px;
+    height: 50px;
+    background-color: rgb(215, 180, 137);
+    margin: 30px;
+    
+
+}
+
+.knopaka:hover{
+    background-color: rgb(175, 212, 209);
+}
+
+.knopakak {
+    width: 150px;
+    height: 50px;
+    background-color: rgb(215, 180, 137);
+    margin: 30px;
+    
+
+}
+
+.knopakak:hover{
+    background-color: rgb(175, 212, 209);
+}
+
+
